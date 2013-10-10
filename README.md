@@ -5,5 +5,7 @@ Test repository &amp; tag file
 
 Organizations I belong to: LVL1.ORG, KYOSS
 
-Intrests: Python
+Interests: Python
+
+Location: Louisville KY, USA
 
